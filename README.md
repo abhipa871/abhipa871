@@ -2,7 +2,7 @@
 
 I study computer science, physics, and machine learning, and I like building projects that let me poke at models from the inside instead of only treating them like APIs.
 
-A lot of what is here comes from experiments with multi-agent reliability, latent agent-to-agent communication using SelfIE-style hidden-state injection, DINOv3 inside MedCLIP, local/hosted model chat infrastructure, voice-based music recommendation, and KV-cache paper implementations.
+I am an AI/ML engineer and researcher focused on vision-language model research, with projects spanning biomedical image-text alignment, agent reliability, latent agent-to-agent communication, model interpretability, local/hosted model infrastructure, audio emotion modeling, and long-context KV-cache paper implementations.
 
 ## Quick Links
 
