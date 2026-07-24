@@ -18,7 +18,7 @@ I'm an AI/ML engineer and researcher focused on reliable agent systems, biomedic
 | [Luma Chat](https://github.com/abhipa871/ToolGeneration) | Provider-agnostic ChatGPT-style interface with streaming, Supabase auth, BYOK support, and server-side model adapters. | Next.js, React, TypeScript, Supabase, OpenAI-compatible APIs |
 | [MoodMusic](https://github.com/abhipa871/moodmusic) | Full-stack mood-based music recommender that detects emotion from voice and suggests Spotify tracks. | FastAPI, React, TypeScript, Wav2Vec2, Spotify API |
 
-## Research And Engineering Interests
+## Research and Engineering Interests
 
 - Agent reliability, typed workflows, evals, tool boundaries, and human approval loops
 - Biomedical NLP and medical image-text alignment
