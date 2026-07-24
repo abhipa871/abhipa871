@@ -8,7 +8,6 @@ I am an AI/ML engineer and researcher focused on vision-language model research,
 
 - LinkedIn: [linkedin.com/in/abhi-patel-655808241](https://www.linkedin.com/in/abhi-patel-655808241/)
 - GitHub: [github.com/abhipa871](https://github.com/abhipa871)
-- Website: [abhipa871.github.io](https://abhipa871.github.io)
 
 ## School
 
