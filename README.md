@@ -17,11 +17,11 @@ A lot of what is here comes from experiments with multi-agent reliability, laten
 
 ## Repos Worth Opening
 
-- [ReAgent](https://github.com/Alred-79/hackprinceton-final) - a HackPrinceton project about testing where multi-agent systems break: handoffs, tool use, approvals, replay, and evals. Won Best Use of Enter.pro.
+- [ReAgent](https://github.com/Alred-79/hackprinceton-final) - a HackPrinceton Spring 2026 project about testing where multi-agent systems break: handoffs, tool use, approvals, replay, and evals. Winner of Best Use of Enter.pro 2026.
 - [latentAgent2AgentComm](https://github.com/abhipa871/latentAgent2AgentComm) - experiments in latent agent-to-agent communication by passing hidden states between SelfIE-style generation and interpretation passes.
 - [MedCLIPDinoTxt](https://github.com/abhipa871/MedCLIPDinoTxt) - my fork of MedCLIP where I tried plugging in DINOv3 and testing image-text alignment on ROCO.
 - [ToolGeneration / Luma Chat](https://github.com/abhipa871/ToolGeneration) - a chat interface that works across local and hosted model providers, with auth, streaming, and server-side provider adapters.
-- [moodmusic](https://github.com/abhipa871/moodmusic) - a voice-to-mood music recommender using Wav2Vec2 and Spotify search.
+- [moodmusic](https://github.com/abhipa871/moodmusic) - a voice-to-mood music recommender using Wav2Vec2 and Spotify search. 2nd place winner at the Rutgers IEEE Hackathon Spring 2025.
 - [SnapKV](https://github.com/abhipa871/SnapKVCacheLLMPaperImplementation) and [H2O Cache](https://github.com/abhipa871/H2OCacheLLMPaperImplementation) - paper implementation repos for long-context KV-cache compression ideas.
 
 ## Stuff I've Worked With
