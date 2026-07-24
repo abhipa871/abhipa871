@@ -1,31 +1,29 @@
-# Hi, I'm Abhi Patel
+# Hey, I'm Abhi
 
-I'm an AI/ML engineer and researcher focused on reliable agent systems, biomedical vision-language models, model interpretability, and applied machine learning infrastructure.
+I study computer science, physics, and machine learning, and I like building projects that let me poke at models from the inside instead of only treating them like APIs.
 
-- Incoming M.S. Computer Science & Engineering student at the University of Michigan
-- B.S. Computer Science and Physics from Rutgers University, Summa Cum Laude
-- AI Research Assistant at the Rutgers Rail and Transit Program
-- Former Technical Chair of Rutgers AI Club, supporting a 200+ member technical community
+Right now, this GitHub is a mix of research code, class-adjacent experiments, hackathon projects, and things I built because I wanted to understand an idea better.
+
+## Quick Links
+
 - LinkedIn: [linkedin.com/in/abhi-patel-655808241](https://www.linkedin.com/in/abhi-patel-655808241/)
+- GitHub: [github.com/abhipa871](https://github.com/abhipa871)
 
-## Selected Projects
+## School
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [ReAgent](https://github.com/Alred-79/hackprinceton-final) | Multi-agent reliability workbench with typed handoffs, approval gates, replay, and deterministic failure scenarios. Winner of Best Use of Enter.pro at HackPrinceton Spring 2026. | React, TypeScript, FastAPI, LangGraph, Pydantic AI, SQLite |
-| [SelfIE-Agent](https://github.com/abhipa871/selfie-agent) | Python utilities for hidden-state injection and interpretation experiments on Hugging Face causal language models. | Python, PyTorch, Transformers, Hugging Face |
-| [MedCLIPDinoTxt](https://github.com/abhipa871/MedCLIPDinoTxt) | Experimental MedCLIP fork integrating a DINOv3 visual encoder with ROCO training and image-text retrieval evaluation. | PyTorch, Transformers, DINOv3, MedCLIP |
-| [Luma Chat](https://github.com/abhipa871/ToolGeneration) | Provider-agnostic ChatGPT-style interface with streaming, Supabase auth, BYOK support, and server-side model adapters. | Next.js, React, TypeScript, Supabase, OpenAI-compatible APIs |
-| [MoodMusic](https://github.com/abhipa871/moodmusic) | Full-stack mood-based music recommender that detects emotion from voice and suggests Spotify tracks. | FastAPI, React, TypeScript, Wav2Vec2, Spotify API |
+- University of Michigan, M.S. Computer Science and Engineering, Aug. 2026 - Dec. 2027
+- Rutgers University, B.S. Computer Science and Physics, Summa Cum Laude, May 2026
+- Former Technical Chair, Rutgers AI Club
 
-## Research and Engineering Interests
+## Repos Worth Opening
 
-- Agent reliability, typed workflows, evals, tool boundaries, and human approval loops
-- Biomedical NLP and medical image-text alignment
-- Model interpretability, hidden-state analysis, SHAP, and representation probing
-- Efficient LLM inference, KV-cache compression, and long-context evaluation
-- Full-stack AI products with careful data, auth, and deployment boundaries
+- [ReAgent](https://github.com/Alred-79/hackprinceton-final) - a HackPrinceton project about testing where multi-agent systems break: handoffs, tool use, approvals, replay, and evals. Won Best Use of Enter.pro.
+- [selfie-agent](https://github.com/abhipa871/selfie-agent) - utilities for SelfIE-style hidden-state injection experiments on Hugging Face language models.
+- [MedCLIPDinoTxt](https://github.com/abhipa871/MedCLIPDinoTxt) - my fork of MedCLIP where I tried plugging in DINOv3 and testing image-text alignment on ROCO.
+- [ToolGeneration / Luma Chat](https://github.com/abhipa871/ToolGeneration) - a chat interface that works across local and hosted model providers, with auth, streaming, and server-side provider adapters.
+- [moodmusic](https://github.com/abhipa871/moodmusic) - a voice-to-mood music recommender using Wav2Vec2 and Spotify search.
+- [SnapKV](https://github.com/abhipa871/SnapKVCacheLLMPaperImplementation) and [H2O Cache](https://github.com/abhipa871/H2OCacheLLMPaperImplementation) - paper implementation repos for long-context KV-cache compression ideas.
 
-## Technical Toolkit
+## Stuff I've Worked With
 
-Python, TypeScript, JavaScript, Java, SQL, PyTorch, Transformers, Hugging Face, LangGraph, Pydantic AI, FastAPI, Next.js, React, Supabase, AWS S3, REST APIs, Git, and Linux.
+Python, TypeScript, JavaScript, Java, SQL, PyTorch, Transformers, Hugging Face, LangGraph, Pydantic AI, FastAPI, Next.js, React, Supabase, AWS S3, Git, and Linux.
