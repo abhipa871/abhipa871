@@ -2,7 +2,7 @@
 
 I study computer science, physics, and machine learning, and I like building projects that let me poke at models from the inside instead of only treating them like APIs.
 
-A lot of what is here comes from experiments with multi-agent reliability, SelfIE-style hidden-state interpretation, DINOv3 inside MedCLIP, local/hosted model chat infrastructure, voice-based music recommendation, and KV-cache paper implementations.
+A lot of what is here comes from experiments with multi-agent reliability, latent agent-to-agent communication using SelfIE-style hidden-state injection, DINOv3 inside MedCLIP, local/hosted model chat infrastructure, voice-based music recommendation, and KV-cache paper implementations.
 
 ## Quick Links
 
@@ -18,7 +18,7 @@ A lot of what is here comes from experiments with multi-agent reliability, SelfI
 ## Repos Worth Opening
 
 - [ReAgent](https://github.com/Alred-79/hackprinceton-final) - a HackPrinceton project about testing where multi-agent systems break: handoffs, tool use, approvals, replay, and evals. Won Best Use of Enter.pro.
-- [selfie-agent](https://github.com/abhipa871/selfie-agent) - utilities for SelfIE-style hidden-state injection experiments on Hugging Face language models.
+- [latentAgent2AgentComm](https://github.com/abhipa871/latentAgent2AgentComm) - experiments in latent agent-to-agent communication by passing hidden states between SelfIE-style generation and interpretation passes.
 - [MedCLIPDinoTxt](https://github.com/abhipa871/MedCLIPDinoTxt) - my fork of MedCLIP where I tried plugging in DINOv3 and testing image-text alignment on ROCO.
 - [ToolGeneration / Luma Chat](https://github.com/abhipa871/ToolGeneration) - a chat interface that works across local and hosted model providers, with auth, streaming, and server-side provider adapters.
 - [moodmusic](https://github.com/abhipa871/moodmusic) - a voice-to-mood music recommender using Wav2Vec2 and Spotify search.
