@@ -2,7 +2,7 @@
 
 I study computer science, physics, and machine learning, and I like building projects that let me poke at models from the inside instead of only treating them like APIs.
 
-My GitHub is basically a working notebook: research code, class projects, hackathon builds, and paper implementations I made to understand ideas by actually building them.
+A lot of what is here comes from experiments with multi-agent reliability, SelfIE-style hidden-state interpretation, DINOv3 inside MedCLIP, local/hosted model chat infrastructure, voice-based music recommendation, and KV-cache paper implementations.
 
 ## Quick Links
 
